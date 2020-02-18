@@ -16,13 +16,13 @@ yarn add @eestado-ui
 ### Alerta
 
 ```javascript
-import { Alerta } from '@eestado-ui';
+import { Alerta } from '@eestado/ui';
 ```
 
 ### BarraContexto
 
 ```javascript
-import { BarraContexto } from '@eestado-ui';
+import { BarraContexto } from '@eestado/ui';
 ```
 
 ### Formulario
